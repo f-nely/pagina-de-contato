@@ -22,7 +22,7 @@ HTML5, CSS3
 
 ## 🦸 Autor
 <h4 align="center">
-  Feito com ❤️ por nelynely 👋️ <a href="https://www.linkedin.com/in/f-nely/">Entre em contato!</a>
+  Feito com ❤️ por nelynely 👋🏾 <a href="https://www.linkedin.com/in/f-nely/">Entre em contato!</a>
 </h4>
 
 
